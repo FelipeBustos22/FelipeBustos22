@@ -1,5 +1,5 @@
 <h1>
-  🐉 Sobre mi :D
+  👨🏻‍💻 Sobre mi :D
   <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWUxYXM3cmZ3dWtpNm10eHlnY2tvbGk1ZG1zdnN4ajVhcWY2c245eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IhFv8qGCCTiWkLZN8t/giphy.gif" alt="Felipe Bustos gif" width="140"/>
 </h1>
 
